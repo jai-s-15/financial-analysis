@@ -1,5 +1,6 @@
 # Financial Analysis Roadmap
 
+A self-directed study working from quantitive market analysis toward systematic strategy research in Python. Each level pairs theoretical concepts and ideas with a project that implements it.
 
 
 ## Stages
